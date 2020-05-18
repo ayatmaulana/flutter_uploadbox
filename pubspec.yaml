@@ -1,8 +1,8 @@
 name: flutteruploadbox
 description: Flutter Uploadx Widget
 version: 0.0.1
-author:
-homepage:
+author: ayatmaulana
+homepage: https://github.com/ayatmaulana/flutter_uploadbox
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
